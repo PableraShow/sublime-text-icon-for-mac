@@ -2,7 +2,7 @@
 
 *Stars and Forks are welcome :)*
 
-**The Sublime Text Icon name is '988b5d20d2d8a5bf'**.
+The Sublime Text Icon name is '**988b5d20d2d8a5bf**'.
 
 Changing an item's icon
 -------
