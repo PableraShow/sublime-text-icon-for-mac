@@ -4,7 +4,7 @@
 
 Changing an item's icon
 -------
-![png](images4readme/988b5d20d2d8a5bf)
+![png](images4readme/sublime-preview.png)
 
 - Use Finder to navigate to the Applications folder of your Mac and select the application for which you want to change the icon.
 
@@ -34,19 +34,5 @@ If, for whatever reason, you decide to switch back to the app’s original icon,
 - Press Backspace. The app’s icon should be restored to its original state.
 
 Note: OS X may ask you for your administrative password at this point; enter it to reset the icon.
-
-
-
-
-
-
-To change the icon of an app, folder or file, first copy an image or another icon to the clipboard (Edit > Copy). You can then use that image for the item's icon.
-- In the Finder, select the item you want to have a different icon.
-- From the File menu, choose Get Info or press Command-I to open the Get Info window.
-- Click the icon in the upper-left corner of the Get Info window to select it.
-
-
-
-![jpg](images4readme/logo-python.jpg)
 
 Thanks for read it!
